@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-cron-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cron",
+    "basics",
+    "nodejs"
+  ],
+  "author": "engin karataş",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3"
+  }
+}
